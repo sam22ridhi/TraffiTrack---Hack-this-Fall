@@ -1,5 +1,3 @@
-Here’s an improved and visually enhanced version of your README file for **TraffiTrack**:
-
 ---
 
 # TraffiTrack-Hack-this-Fall : Advanced Drug Monitoring System
