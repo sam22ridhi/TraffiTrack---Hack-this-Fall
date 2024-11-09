@@ -117,7 +117,7 @@ Visit **TraffiTrack** on Hugging Face Spaces: [TraffiTrack](https://huggingface.
 
 ## License & Acknowledgments
 
-This project is licensed under the MIT License (see [LICENSE](./LICENSE) for details). A special thanks to the open-source communities and tools that made TraffiTrack possible.
+This project is licensed under the Apache License (see [LICENSE](./LICENSE) for details). A special thanks to the open-source communities and tools that made TraffiTrack possible.
 
 ---
 
