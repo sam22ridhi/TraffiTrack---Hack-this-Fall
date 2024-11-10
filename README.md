@@ -37,6 +37,7 @@ Imagine a scenario where law enforcement suspects increased drug activity in a c
 
 ### Visual Workflow
 A workflow diagram could showcase TraffiTrack’s end-to-end data journey – from data capture and analysis to flagging and visualization – helping the judges understand the entire process at a glance.
+[![Watch the video](https://img.youtube.com/vi/xA9F7TYYrfA/0.jpg)](https://youtu.be/xA9F7TYYrfA)
 
 ---
 
