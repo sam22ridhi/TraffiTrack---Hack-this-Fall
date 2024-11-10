@@ -146,4 +146,3 @@ This project is licensed under the Apache License (see [LICENSE](./LICENSE) for 
 
 ---
 
-This enhanced documentation provides a comprehensive, engaging, and visually rich presentation of TraffiTrack, highlighting its real-world value, ethical considerations, and innovative approach. This structure should strongly appeal to the judging criteria for creativity, effort, and effective medium use.
