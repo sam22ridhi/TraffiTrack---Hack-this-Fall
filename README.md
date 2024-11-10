@@ -8,6 +8,7 @@
 In today's digital world, drug trafficking has evolved, exploiting social media and messaging platforms like Telegram, Instagram, and WhatsApp for illicit exchanges. These platforms enable traffickers to communicate covertly, posing significant challenges for law enforcement. Identifying drug-related activities in a sea of daily messages is akin to finding a needle in a haystack, with the added difficulty of coded language, regional slang, and rapidly evolving tactics. 
 
 **Enter TraffiTrack** – an advanced monitoring tool designed to combat this issue by combining cutting-edge AI, geospatial analysis, and psycholinguistics. Using language models and multimodal data integration, TraffiTrack empowers law enforcement to detect and address drug-related communications in real-time, providing insights that can disrupt trafficking networks and enhance public safety.
+![Animated GIF](outputs/ezgif.com-animated-gif-maker.gif)
 
 ### Case Study: A Hypothetical Scenario
 Imagine a scenario where law enforcement suspects increased drug activity in a city. By deploying TraffiTrack, they monitor Telegram for suspicious phrases, identify geospatial clusters near known hotspots, and analyze message patterns. An unusual spike in activity with flagged keywords alerts officers to an impending exchange, allowing them to intervene and prevent the transaction. This scenario underscores how TraffiTrack’s real-time insights could be a game-changer in combating drug trafficking.
