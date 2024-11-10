@@ -83,12 +83,10 @@ TraffiTrack’s approach is uniquely suited to the challenges of covert drug-rel
 
 ## Demo & Dashboard Presentation
 
-Include a mock-up or GIF of TraffiTrack’s dashboard to demonstrate:
 - **Real-Time Alerts**: Instant notifications for flagged content, allowing immediate action.
 - **Location-Based Hotspot Mapping**: Visual geospatial data showing high-activity zones.
 - **Temporal Analysis Graphs**: Display message patterns over time to detect suspicious scheduling.
 
-An animated timeline or map could be included to illustrate patterns of trafficking activity visually.
 
 ---
 
