@@ -40,7 +40,7 @@ A workflow diagram could showcase TraffiTrack’s end-to-end data journey – fr
 
 ---
 
-[![Watch the video](https://img.youtube.com/vi/xA9F7TYYrfA/2.jpg)](https://youtu.be/xA9F7TYYrfA)
+[Watch the video on YouTube](https://youtu.be/xA9F7TYYrfA)
 
 ---
 
