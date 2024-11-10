@@ -136,7 +136,7 @@ With TraffiTrack, we envision a future where technology empowers communities to 
 
 ## Getting Started
 
-Visit **TraffiTrack** on Hugging Face Spaces: [TraffiTrack](https://huggingface.co/spaces/samiee2213/traffitrack). For setup instructions, see [INSTALL.md](./INSTALL.md).
+Visit **TraffiTrack** on Hugging Face Spaces: [TraffiTrack](https://huggingface.co/spaces/samiee2213/sih). For setup instructions, see [INSTALL.md](./INSTALL.md).
 
 ---
 
