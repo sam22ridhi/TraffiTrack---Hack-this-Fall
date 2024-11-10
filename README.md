@@ -10,6 +10,23 @@ In today's digital world, drug trafficking has evolved, exploiting social media 
 **Enter TraffiTrack** – an advanced monitoring tool designed to combat this issue by combining cutting-edge AI, geospatial analysis, and psycholinguistics. Using language models and multimodal data integration, TraffiTrack empowers law enforcement to detect and address drug-related communications in real-time, providing insights that can disrupt trafficking networks and enhance public safety.
 ![Animated GIF](outputs/ezgif.com-animated-gif-maker.gif)
 
+## Table of Contents
+- [Introduction & Problem Statement](#introduction--problem-statement)
+- [Key Features](#key-features)
+- [Detailed Solution & Workflow](#detailed-solution--workflow)
+- [Real-World Impact & Feature Expansion](#real-world-impact--feature-expansion)
+- [Technical Innovation and Scalability](#technical-innovation-and-scalability)
+- [Challenges & Creative Solutions](#challenges--creative-solutions)
+- [Key Technologies & Tools](#key-technologies--tools)
+- [Demo & Dashboard Presentation](#demo--dashboard-presentation)
+- [Ethical & Responsible AI](#ethical--responsible-ai)
+- [Output Snippets](#output-snippets)
+- [Law Enforcement Use Cases](#law-enforcement-use-cases)
+- [Benefits & Visionary Impact](#benefits--visionary-impact)
+- [Getting Started](#getting-started)
+- [License & Acknowledgments](#license--acknowledgments)
+
+
 ### Case Study: A Hypothetical Scenario
 Imagine a scenario where law enforcement suspects increased drug activity in a city. By deploying TraffiTrack, they monitor Telegram for suspicious phrases, identify geospatial clusters near known hotspots, and analyze message patterns. An unusual spike in activity with flagged keywords alerts officers to an impending exchange, allowing them to intervene and prevent the transaction. This scenario underscores how TraffiTrack’s real-time insights could be a game-changer in combating drug trafficking.
 
