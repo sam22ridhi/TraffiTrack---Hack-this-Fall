@@ -88,6 +88,23 @@ An animated timeline or map could be included to illustrate patterns of traffick
 TraffiTrack prioritizes ethical AI use, anonymizing user data, and operating within regulatory standards. With robust data security and encryption, TraffiTrack ensures that privacy is respected without compromising public safety.
 
 ---
+## Ouput Snippets
+---
+
+### Image 2
+![Screenshot 2](outputs/WhatsApp%20Image%202024-09-05%20at%2011.57.33%20AM.jpeg)
+
+### Image 3
+![Screenshot 3](outputs/WhatsApp%20Image%202024-09-05%20at%2011.58.38%20AM.jpeg)
+
+### Image 4
+![Screenshot 4](outputs/WhatsApp%20Image%202024-09-05%20at%2011.58.58%20AM.jpeg)
+
+### Image 5
+![Screenshot 5](outputs/WhatsApp%20Image%202024-09-05%20at%2012.00.23%20PM.jpeg)
+
+### Image 6
+![Screenshot 6](outputs/WhatsApp%20Image%202024-09-05%20at%2012.01.38%20PM.jpeg)
 
 ## Law Enforcement Use Cases
 
@@ -109,7 +126,7 @@ With TraffiTrack, we envision a future where technology empowers communities to 
 
 ---
 
-## Getting Started & Contributing
+## Getting Started
 
 Visit **TraffiTrack** on Hugging Face Spaces: [TraffiTrack](https://huggingface.co/spaces/samiee2213/traffitrack). For setup instructions, see [INSTALL.md](./INSTALL.md).
 
