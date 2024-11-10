@@ -91,7 +91,7 @@ TraffiTrack prioritizes ethical AI use, anonymizing user data, and operating wit
 ---
 ## Ouput Snippets
 ---
-###Image 1
+### Image 1
 
 ![Screenshot 1](outputs/WhatsApp%20Image%202024-09-05%20at%2011.56.08%20AM.jpeg)
 
